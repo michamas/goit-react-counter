@@ -14,7 +14,6 @@ export const App = () => {
         backgroundColor: 'grey',
       }}
     >
-      Please leave feedback
       <Counter step={5} />
     </div>
   );
