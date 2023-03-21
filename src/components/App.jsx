@@ -14,7 +14,7 @@ export const App = () => {
         backgroundColor: 'grey',
       }}
     >
-      <Counter step={5} />
+      <Counter step={3} initialValue={5} />
     </div>
   );
 };
